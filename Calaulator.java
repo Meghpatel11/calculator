@@ -1,3 +1,5 @@
-public class calculator() {
-	public static void main(String[] args){}
+public class calculator(){
+	public int addition(int a,int b ){
+		return a+b; 
+	}
 }
